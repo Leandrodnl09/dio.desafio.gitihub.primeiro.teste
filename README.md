@@ -1,2 +1,8 @@
-# dio.desafio.gitihub.primeiro.teste
-Desafio de projeto sobre Git e GitHub
+# Repositorio do desafio  de projeto dno Git e no GitHub
+* Desafio de projeto  do GitHub
+
+##  Links Uteis:
+
+[Sintaxe Básica Markdonw](https://www.markdownguide.org/basic-syntax/)
+
+
